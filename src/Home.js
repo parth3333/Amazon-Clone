@@ -14,17 +14,19 @@ function Home() {
 
                 <div className="home_row">
                     <Product />
-                    {/* <product> */}
+                    <Product />
+                    
                 </div>
 
                 <div className="home_row">
-                    {/* <product> */}
-                    {/* <product> */}
-                    {/* <product> */}
+                    <Product />
+                    <Product />
+                    <Product />
+                    
                 </div>
 
                 <div className="home_row">
-                    {/* <product> */}
+                     <Product />
                 </div>
             </div>
             

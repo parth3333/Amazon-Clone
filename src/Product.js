@@ -14,12 +14,12 @@ function Product() {
                     <p>⋆</p>
                     <p>⋆</p>
                     <p>⋆</p>
-                    <p>⋆</p>
-                    
+                    <p>⋆</p>                  
                 </div>
-                <img src="https://m.media-amazon.com/images/I/71bUKrOPzYL._AC_UL320_.jpg" alt="Apple Watch"></img>
-                <button>Add to Basket</button>
             </div>
+                <img src="https://m.media-amazon.com/images/I/71bUKrOPzYL._AC_UL320_.jpg" alt="Apple Watch"/>
+                <button>Add to Cart</button>
+            
         </div>
     )
 }
