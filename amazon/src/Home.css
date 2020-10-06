@@ -1,0 +1,7 @@
+.home_image{
+    width: 100%;
+    z-index: -1;
+    margin-bottom: -150px; 
+    /* for fading the top to bottom image mask-image is used */
+    mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(116, 56, 56, 0)); 
+}
